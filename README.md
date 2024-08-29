@@ -20,7 +20,13 @@ Kibana:
 1. Внес изменения в конфиг Logstash
    ![изображение](https://github.com/user-attachments/assets/afed5a72-0b39-4866-92fb-bebd1039d45c)
 
-2. В Kibana появились
+2. В Kibana появились индексы
+   ![изображение](https://github.com/user-attachments/assets/896608a5-c0c8-407a-a702-8018f07f1de3)
+
+3. Созданы DataView под каждый индекс
+   ![изображение](https://github.com/user-attachments/assets/0801f39c-7b7c-4621-a005-e8e094afd9b6)
+
+
 
    
 
