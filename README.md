@@ -14,3 +14,14 @@ Kibana:
 
 ![изображение](https://github.com/user-attachments/assets/9b009071-2fed-4006-99da-ded32f43e837)
 
+## Задание 2
+В качетсве закрепления материала создал еще один индекс, в который поместил логи от some_application сервиса:
+
+1. Внес изменения в конфиг Logstash
+   ![изображение](https://github.com/user-attachments/assets/afed5a72-0b39-4866-92fb-bebd1039d45c)
+
+2. В Kibana появились
+
+   
+
+
