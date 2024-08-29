@@ -26,6 +26,14 @@ Kibana:
 3. Созданы DataView под каждый индекс
    ![изображение](https://github.com/user-attachments/assets/0801f39c-7b7c-4621-a005-e8e094afd9b6)
 
+4. Анализируем логи в индексе some_app*:
+   ![изображение](https://github.com/user-attachments/assets/7eea8629-ad4c-4e47-891f-ae9b9db5b2e8)
+
+5. Анализируем логи в индексе logstash*:
+   ![изображение](https://github.com/user-attachments/assets/2111f0fd-5235-4239-8886-9c99c582ebe9)
+
+
+
 
 
    
